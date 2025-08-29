@@ -1,5 +1,5 @@
-﻿namespace W1_Basic_File_IO;
-//temp
+﻿namespace W1_BasicFileIO;
+
 class Program
 {
     // I wasn't able to get the relative path to work, so I'm using an absolute path.
